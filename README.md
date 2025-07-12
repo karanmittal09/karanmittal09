@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanmittal09" alt="karanmittal09" /></a> </p>
 
-- 🔭 I’m currently working on **Dev Pet, Shoplyft**
+- 🔭 I’m currently working on **Some cool stuff**
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, NextJs**
 
