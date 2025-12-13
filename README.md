@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanmittal09" alt="karanmittal09" /></a> </p>
 
-- 🔭 I’m currently working on **Some cool stuff**
+- 🔭 I’m currently working on **Full stack Development**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, NextJs**
+- 🌱 I’m currently learning **MERN Stack, Databases, NextJs**
 
 - 👯 I’m looking to collaborate on **different projects**
 
-- 💬 Ask me about **Dsa, C, C++, Development**
+- 💬 Ask me about **DSA, Development**
 
 - 📫 How to reach me **karan701577@gmail.com**
 
