@@ -6,13 +6,11 @@ Backend & Full-Stack | DSA | System-oriented thinking</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanmittal09" alt="karanmittal09" /></a> </p> -->
 
-- 🔭 I’m currently working on **Full stack Development**
+- 🔭 Currently building Full-Stack Applications
 
-- 🌱 I’m currently learning **MERN Stack, Databases, NextJs**
-
-- 👯 I’m looking to collaborate on **different projects**
-
-- 💬 Ask me about **DSA, Development**
+- 🌱 Learning & exploring MERN Stack, Databases, and Next.js
+  
+- ⚡ DSA, Problem Solving & Optimization
 
 - 📫 How to reach me **karan701577@gmail.com**
 
