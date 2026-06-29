@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Mittal</h1>
 <h3 align="center">Software Developer | 
-Backend & Full-Stack | IIIT Grad 2026 </h3>
+AI & Full-Stack | IIIT Grad 2026 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmittal09&label=Profile%20views&color=0e75b6&style=flat" alt="karanmittal09" /> </p>
 
