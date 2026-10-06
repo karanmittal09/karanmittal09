@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | 
 AI & Full-Stack | IIIT Grad 2026 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmittal09&label=Profile%20views&color=0e75b6&style=flat" alt="karanmittal09" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanmittal09&label=Profile%20views&color=0e75b6&style=flat" alt="karanmittal09" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanmittal09" alt="karanmittal09" /></a> </p> -->
 
