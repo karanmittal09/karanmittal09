@@ -6,11 +6,10 @@ AI & Full-Stack | IIIT Grad 2026 </h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanmittal09" alt="karanmittal09" /></a> </p> -->
 
-- 🔭 Currently building Full-Stack Applications
-
-- 🌱 Learning & exploring MERN Stack, Databases, and Next.js
-  
-- ⚡ DSA, Problem Solving & Optimization
+- 👨‍💻 Building Full-Stack & Backend applications (Node, Spring Boot)
+- 🤖 Exploring RAG, LLMs & GenAI
+- 🧠 Solving problems with C++ & DSA
+- 🚀 Build. Learn. Optimize. Repeat.
 
 - 📫 How to reach me **karan701577@gmail.com**
 
